@@ -1,3 +1,7 @@
 
 .idea/
 .*iml
+
+app
+main.o
+tbb_wrapper.o
